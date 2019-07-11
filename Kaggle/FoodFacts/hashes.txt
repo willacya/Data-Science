@@ -1,0 +1,7 @@
+Current git commit:
+4ae4f5376c4afc9f77af4350476a77d43383917d
+
+Current ouput md5 hashes:
+MD5 (output/FoodFacts.csv) = 7261d66b9bfcecbcb06a692ddd3d8019
+MD5 (output/database.sqlite) = 91c9edb131fe4d6f95f5239462320b18
+MD5 (input/FoodFacts.tsv) = 88c43d514eea5c6dec69d21a13907ed4
